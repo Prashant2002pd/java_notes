@@ -23,8 +23,12 @@
             "id": "18a714f35923af85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Access Modifiers in Java.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Access Modifiers in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Access Modifiers in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Access Modifiers in Java.md"
+              }
             }
           }
         ]
@@ -163,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18a714f35923af85",
+  "active": "81a31d764cd895ad",
   "lastOpenFiles": [
     "OOPS.md",
     "Java class basic structure.md",
     "Arrays.md",
     "Access Modifiers in Java.md",
     "src",
-    "src/Pasted image 20240301185836.png"
+    "src/access_modifier_img.png"
   ]
 }
