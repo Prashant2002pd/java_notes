@@ -23,6 +23,14 @@
             "id": "18a714f35923af85",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c5e1e67a738e86b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "OOPS.md",
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OOPS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +165,11 @@
   },
   "active": "18a714f35923af85",
   "lastOpenFiles": [
+    "OOPS.md",
     "Java class basic structure.md",
     "Arrays.md",
-    "OOPS.md"
+    "Access Modifiers in Java.md",
+    "src",
+    "src/Pasted image 20240301185836.png"
   ]
 }
