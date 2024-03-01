@@ -6,4 +6,4 @@
 	- default: : This is the default access modifier. A class, variable, method, or constructor declared without an access modifier is given the default access modifier. The default access modifier allows access within the same package.
 
 
-	![[access_modifier_img.png]]
+	![](access_modifier_img.png)
